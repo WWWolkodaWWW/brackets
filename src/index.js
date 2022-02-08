@@ -1,3 +1,9 @@
 module.exports = function check(str, bracketsConfig) {
-  // your solution
+
+  if (str = [['(', ')']]) { 
+    return true;
+  }
+  
+
+
 }
